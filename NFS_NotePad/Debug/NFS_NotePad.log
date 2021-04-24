@@ -1,0 +1,7 @@
+﻿  NFS_NotePad.cpp
+C:\Users\Димаш\source\repos\NFS_NotePad\NFS_NotePad\NFS_NotePad.cpp(152,13): warning C4101: bm: неиспользованная локальная переменная
+C:\Users\Димаш\source\repos\NFS_NotePad\NFS_NotePad\NFS_NotePad.cpp(444,78): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Димаш\source\repos\NFS_NotePad\NFS_NotePad\NFS_NotePad.cpp(444,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Димаш\source\repos\NFS_NotePad\NFS_NotePad\NFS_NotePad.cpp(470,78): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Димаш\source\repos\NFS_NotePad\NFS_NotePad\NFS_NotePad.cpp(470,47): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  NFS_NotePad.vcxproj -> C:\Users\Димаш\source\repos\NFS_NotePad\Debug\NFS_NotePad.exe
